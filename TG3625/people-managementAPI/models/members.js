@@ -12,6 +12,7 @@ const Members = new Schema(
         email: String,
         gender: String,
         status: String,
+        
     }
 );
 
